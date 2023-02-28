@@ -2,10 +2,10 @@
 ## 4. Log into ieng6
  ![Account name](Screen Shot 2023-02-27 at 8.37.53 PM.PNG)
  Enter the account name of ieng6 and press <enter>
- ![Password](Screen Shot 2023-02-27 at 8.38.24 PM.png)
+ ![Password](Screen Shot 2023-02-27 at 8.38.24 PM.PNG)
   If you have the password enter it and press <enter>
 ## 5. Clone your fork of the repository from your Github account
-  ![Clone](Screen Shot 2023-02-27 at 8.30.36 PM.png)
+  ![Clone](Screen Shot 2023-02-27 at 8.30.36 PM.PNG)
  Clone the repository and press <enter>
 ## 6. Run the tests, demonstrating that they fail
   
