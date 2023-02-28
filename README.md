@@ -3,7 +3,7 @@
 ## 4. Log into ieng6
 
 
-the account name of ieng6 and press `<Enter>` (need to cancel the password first)
+Log in by the account name of ieng6 and press `<Enter>` (need to cancel the password first)
 ![Image](login.png)
 ## 5. Clone your fork of the repository from your Github account
  Clone the repository(the website should get form lab7 > code(green bottom) > copy the ssh) and press `<Enter>` after you paste the url in
