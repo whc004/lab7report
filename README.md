@@ -4,7 +4,7 @@
 Enter the account name of ieng6 and press <enter>(need to cancel the password first)
 ![Image](login.png)
 ## 5. Clone your fork of the repository from your Github account
- Clone the repository(the website should get form lab7 > code(green bottom) > copy the ssh) and press <enter>
+ Clone the repository(the website should get form lab7 > code(green bottom) > copy the ssh) and press <enter> after you paste the url in
 ![Image](clone.png)
 ## 6. Run the tests, demonstrating that they fail
  Go to the lab7 to compile it(``` javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java``` ) and run it(``` java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests ListExamples``` ) by entering the code and pressing <enter> (you need to be at lab7 which can checked by ```ls``` if not you should go to the lab7 by```cd``` first)
