@@ -1,6 +1,6 @@
 # lab7report
 ## 4. Log into ieng6
- ![Account name](Screen Shot 2023-02-27 at 8.37.53 PM.PNG)
+ ![Image](login.png)
  Enter the account name of ieng6 and press <enter>
  ![Password](Screen Shot 2023-02-27 at 8.38.24 PM.PNG)
   If you have the password enter it and press <enter>
